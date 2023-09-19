@@ -2,7 +2,7 @@ Memory Allocation and Management in C
 _____________________________________
 
 Objective:
-•Implemented malloc and free functions from scratch, which are fundamental in memory allocation and management in C. To ensure the correctness of our implementation, we follow these steps:
+•Implemented malloc and free functions from scratch, which are fundamental in memory allocation and management in C. In our implementation, we follow these steps:
 
 The heap/heap.h header file defines four crucial variables:
 •heap_size: This variable contains the total heap size in bytes, which is specified by the test.
