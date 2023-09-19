@@ -1,4 +1,4 @@
-__Memory Allocation and Management in C__
+## Memory Allocation and Management in C
 
 Objective:
 •Implemented malloc and free functions from scratch, which are fundamental in memory allocation and management in C. To ensure the correctness of our implementation, we follow these steps:
